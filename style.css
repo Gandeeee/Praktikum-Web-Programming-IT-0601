@@ -1,0 +1,26 @@
+/* =========================================
+                 style.css
+   ========================================= */
+
+/* Gunakan font sans-serif untuk seluruh teks */
+html, body {
+  font-family: sans-serif; /* font sans-serif */
+}
+
+/* Latar belakang halaman bernuansa lembut + ruang tepi agar tidak mepet */
+body {
+  background-color: #cfe0fa; /* biru muda lembut */
+  margin: 32px;              /* jarak dari tepi viewport */
+}
+
+/* Ubah warna teks heading menjadi biru */
+h1, h2 {
+  color: blue; /* warna biru untuk heading */
+}
+
+/* Atur jarak antar paragraf agar lebih nyaman dibaca */
+p {
+  margin-bottom: 16px; /* jarak bawah antar paragraf */
+}
+
+
